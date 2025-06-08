@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pyo
+*.jpg
+*.png
+random_images/
+test_output/
+.git
+.DS_Store
