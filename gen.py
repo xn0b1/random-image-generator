@@ -4,7 +4,7 @@ import os
 import random
 from tqdm import tqdm
 
-# Configuration pip install numpy pillow tqdm
+# Configuration
 output_dir = "random_images"
 target_size_gb = 64
 image_width = 512
